@@ -1,0 +1,3 @@
+conda install -c conda-forge pynini=2.1.5 && pip install nemo_text_processing
+pip install WeTextProcessing
+python 3.9
