@@ -1,3 +1,12 @@
 conda install -c conda-forge pynini=2.1.5 && pip install nemo_text_processing
 pip install WeTextProcessing
 python 3.9
+
+
+2700
+
+100 女生
+问题和答案之间有1秒.
+0.2个口头语.
+音调结尾需要往下掉.
+长段有一些情绪.
